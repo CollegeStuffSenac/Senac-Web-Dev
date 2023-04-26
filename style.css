@@ -1,0 +1,44 @@
+body{
+    background-color: #5A5A5A;
+}
+
+h1,
+h2,
+h3,
+h4,
+td{
+    color: gainsboro;
+    max-width: 85%;
+    margin: 0 auto;
+}
+
+#bloco{
+    background-color: #373737;
+    border-radius: 20px;
+    margin-top: 250px;
+    padding: 10px;
+}
+
+#imagem{
+    max-width: 80%;
+    margin: 0 auto;
+}
+
+a{
+    color: #3B7D7D;
+}
+
+.container {
+    width: 80%; 
+    margin: 0 auto; 
+}
+
+#alinhar {
+    width: 50%;
+}
+
+#botao {
+    width: 10%;
+    margin: 0 auto;
+  
+}
